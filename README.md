@@ -32,7 +32,7 @@ Currently, I’m diving deeper into:
 ## 📫 Let’s Connect
 
 - 📧 Email: sanskritisourya8448@gmail.com  
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/sanskriti-sourya-aagarwal8448/))  
+- 🔗 [LinkedIn] https://www.linkedin.com/in/sanskriti-sourya-aagarwal8448/ 
 
 ---
 
