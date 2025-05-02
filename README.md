@@ -1,39 +1,39 @@
-# Introduction
+# Hi there 👋, I'm Sanskriti Sourya
 
-Hello there! 👋 I'm Sanskriti Sourya Agarwal, a B.Tech. under graduate at present based in MNIT JAIPUR. Welcome to my GitHub profile!
+🎓 Final-year Computer Science student at MNIT Jaipur  
+👩‍💻 Aspiring Software Development Engineer | Web Developer | Problem Solver  
 
-## About Me
+## 🚀 About Me
 
-I'm passionate about coding. With a background in many projects, I'm dedicated to achieve more.
+I’m passionate about creating impactful digital products that combine clean design with efficient code. With hands-on experience in React, Java, and JavaScript, and a solid understanding of data structures and algorithms, I love building user-friendly web applications and scalable systems.
 
-In my free time, you can find me dancing and singing. I believe in the power of god and science. 
+I recently completed an SDE internship at TechnoGripper Solutions, where I contributed to feature development and enhanced core product functionality. I’ve also conducted developer workshops and solved 250+ DSA problems across various platforms, consistently sharpening my logical thinking and coding skills.
 
-## Skills
+Currently, I’m diving deeper into:
+- 🌐 Microservices Architecture
+- 🧠 AI/ML-based Personalization
+- ☁️ Cloud-native Development with MongoDB and Spring Boot
 
-- HTML
-- CSS
-- JavaScript
-- BootStrap
-- Node JS
-- React JS
-- Java
-- Python
-- SQL
+## 🛠️ Tech Stack
 
+- **Languages:** Java, JavaScript, Python (basic), SQL  
+- **Web Development:** React.js, HTML5, CSS3, Tailwind CSS  
+- **Databases:** MySQL, MongoDB  
+- **Concepts:** OOP, MVC, Event-driven programming, REST APIs  
+- **Tools:** Git, GitHub, VS Code, Postman  
 
-## Projects
-I have done many projects - website portfolio, analog clock, and many others.
+## 📊 Stats & Highlights
 
-## Contact Me
+- 💡 Conducted 5+ workshops on web development
+- 📚 Solved 250+ DSA problems (GeeksforGeeks, CodeChef, etc.)
+- 💼 Interned as SDE at TechnoGripper Solutions
+- ✨ Built responsive personal portfolio & real-time game app
 
-- LinkedIn: (https://www.linkedin.com/in/sanskriti-sourya-aagarwal8448/)
-- Email: [sanskritisourya8448@gmail.com]
-- Portfolio: (https://codesandbox.io/s/nervous-galileo-gej4ec)
+## 📫 Let’s Connect
 
-Feel free to connect with me! I'm always open to interesting conversations and collaborations.
+- 📧 Email: sanskritisourya8448@gmail.com  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/sanskriti-sourya-aagarwal8448/])  
 
-## Resume
+---
 
-If you're interested in my detailed professional background, you can find my resume (https://drive.google.com/file/d/1ahImsORebqjzbXQI0S9-rULYJ2fC8yGC/view?usp=drive_link).
-
-
+Thanks for stopping by! Feel free to check out my pinned repositories below ⬇️
